@@ -3,7 +3,7 @@
 Add your handle to the list below using the format:
 
 ```md
-- @yourHandleHere
+- @jdale7
 ```
 
 - @hectorsector
