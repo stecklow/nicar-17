@@ -13,5 +13,6 @@ Add your handle to the list below using the format:
 - @jdale7
 - @myhandlehere
 - @mindycoopr
+- @BiasData
 
 [Download](nicar.pdf) the slide deck.
