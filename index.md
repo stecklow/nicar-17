@@ -10,5 +10,6 @@ Add your handle to the list below using the format:
 - @amiham-singh
 - @psitsApril
 - @tarajcarman
+- @jdale7
 
 [Download](nicar.pdf) the slide deck.
