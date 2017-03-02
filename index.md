@@ -3,12 +3,12 @@
 Add your handle to the list below using the format:
 
 ```md
-- @tarajcarman
+- @YourHandleHere
 ```
 
 - @hectorsector
+- @amiham-singh
 - @psitsApril
-
----
+- @tarajcarman
 
 [Download](nicar.pdf) the slide deck.
