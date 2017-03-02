@@ -6,8 +6,7 @@ Add your handle to the list below using the format:
 - @yourHandleHere
 ```
 
-- @hectorsector
-
+- @jsmithrichards
 ---
 
 [Download](nicar.pdf) the slide deck.
