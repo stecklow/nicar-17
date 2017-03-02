@@ -12,5 +12,6 @@ Add your handle to the list below using the format:
 - @tarajcarman
 - @jdale7
 - @myhandlehere
+- @mindycoopr
 
 [Download](nicar.pdf) the slide deck.
