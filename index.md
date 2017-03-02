@@ -14,5 +14,8 @@ Add your handle to the list below using the format:
 - @myhandlehere
 - @mindycoopr
 - @BiasData
+- @zdf
 
 [Download](nicar.pdf) the slide deck.
+
+:+1: :octocat:
