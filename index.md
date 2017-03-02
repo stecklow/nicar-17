@@ -7,7 +7,7 @@ Add your handle to the list below using the format:
 ```
 
 - @hectorsector
-
+- dee's handle
 ---
 
 [Download](nicar.pdf) the slide deck.
