@@ -7,7 +7,7 @@ Add your handle to the list below using the format:
 ```
 
 - @hectorsector
-
+- @BiasData
 ---
 
 [Download](nicar.pdf) the slide deck.
