@@ -1,14 +1,34 @@
-## Meet Our Workshop Atendees!
+## Meet Our Workshop Attendees!
 
 Add your handle to the list below using the format:
 
 ```md
-- @yourHandleHere
-- @jrue
+- @YourHandleHere
 ```
 
 - @hectorsector
-
----
+- @amiham-singh
+- @psitsApril
+- @tarajcarman
+- @jdale7
+- @myhandlehere
+- @mindycoopr
+- @BiasData
+- @zdf
+- @bqskillman
+- @waltjw
+- dee's handle
+- @jimstancil
+- @whitevs7
+- @rebeccanews
+- @jsmithrichards
+- @apantazi
+- @Jeavac
+- hassel
+- @ourt
+- @helenabengtsson
+- @jrue
 
 [Download](nicar.pdf) the slide deck.
+
+:+1: :octocat:
