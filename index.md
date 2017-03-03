@@ -16,6 +16,7 @@ Add your handle to the list below using the format:
 - @BiasData
 - @zdf
 - @bqskillman
+- @waltjw
 
 [Download](nicar.pdf) the slide deck.
 
