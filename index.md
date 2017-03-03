@@ -18,6 +18,7 @@ Add your handle to the list below using the format:
 - @bqskillman
 - @waltjw
 - dee's handle
+- @jimstancil
 
 [Download](nicar.pdf) the slide deck.
 
