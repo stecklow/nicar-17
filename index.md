@@ -22,6 +22,7 @@ Add your handle to the list below using the format:
 - @whitevs7
 - @rebeccanews
 - @jsmithrichards
+- @apantazi
 
 [Download](nicar.pdf) the slide deck.
 
