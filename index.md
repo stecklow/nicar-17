@@ -25,6 +25,7 @@ Add your handle to the list below using the format:
 - @apantazi
 - @Jeavac
 - hassel
+- @ourt
 
 [Download](nicar.pdf) the slide deck.
 
