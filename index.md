@@ -20,6 +20,7 @@ Add your handle to the list below using the format:
 - dee's handle
 - @jimstancil
 - @whitevs7
+- @rebeccanews
 
 [Download](nicar.pdf) the slide deck.
 
